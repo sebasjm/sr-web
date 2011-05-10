@@ -1,0 +1,140 @@
+@charset "UTF-8";
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background: url('images/Laterales_01.jpg');
+}
+img {
+	border: 0;
+}
+div{
+	margin-right:auto;
+	margin-left:auto;
+}
+
+td.white {
+	background-color: white;
+}
+
+.asdasd {
+	border-spacing: 0px;
+	border-collapse: collapse;
+	padding: 0px;
+}
+
+table td tr {
+	border-spacing: 0px !important;
+	border-collapse: collapse !important;
+	padding: 0px !important;
+}
+
+.textos {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	text-align: left;
+}
+.textostitulos {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	text-align: left;
+	font-weight: bold;
+	font-variant: normal;
+	color: #003366;
+}
+.placas {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	color: #FFFFFF;
+	padding-left: 5px;
+	padding-top: 3px;
+}
+.textoscuadros {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	height: 212px;
+	text-align: justify;
+	padding-top: 0px;
+	padding-right: 15px;
+	padding-bottom: 0px;
+	padding-left: 25px;
+	margin-bottom: 0px;
+	color: #333333;
+	background: no-repeat, url('images/layout04_22.jpg');
+	vertical-align: top;
+}
+.textoscontacto {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	text-align: justify;
+	padding-top: 15px;
+	padding-right: 15px;
+	padding-bottom: 0px;
+	padding-left: 15px;
+	margin-bottom: 0px;
+	color: #FFFFFF;
+}
+.textoscontactotit {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	text-align: justify;
+	padding-top: 15px;
+	padding-right: 15px;
+	padding-bottom: 0px;
+	padding-left: 15px;
+	margin-bottom: -25px;
+	color: #FFFFFF;
+	font-weight: bold;
+}
+.textosfooter {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-align: left;
+	padding-top: 0px;
+	padding-right: 20px;
+	padding-bottom: 0px;
+	padding-left: 20px;
+	margin-bottom: -10px;
+	color: #D4D4D4;
+	text-decoration: none;
+}
+.botonera {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #FFFFFF;
+	font-size: 14px;
+	text-decoration: none;
+}
+#Table_01 .botonera a {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #FFFFFF;
+	text-decoration: none;
+	padding-top: 8px;
+	padding-right: 12px;
+	padding-bottom: 8px;
+	padding-left: 12px;
+}
+#Table_01 .botonera a:hover {
+	background-color: #434752;
+}
+
+#Table_01 .botonera a:active {
+	color: #666633;
+}
+
+.style3 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+a:link {
+	color: #FFFF99;
+}
+a:hover {
+	color: #CCCCCC;
+}
+a:active {
+	color: #FFFF99;
+}
+
+
+
